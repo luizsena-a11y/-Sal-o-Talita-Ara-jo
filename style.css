@@ -295,6 +295,8 @@
  }
 
  .instagram-media{
+    width: 150px;
+    height: 360px;
     position: relative; 
     top: 15px;
     display: flex;
@@ -316,7 +318,7 @@
 
  /* ===== RESPONSIVIDADE ===== */
  @media (max-width: 768px) {
-     #fracasso {
+    .fracasso {
          padding: 30px 20px;
      }
 
